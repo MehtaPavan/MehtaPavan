@@ -1,4 +1,4 @@
-![MasterHead](https://cutewallpaper.org/23/android-programming-material-design-wallpaper/migrating-to-material-components-for-android-by-nick-rout-android-developers-medium.jpeg)
+![MasterHead](https://miro.medium.com/max/1200/1*27l0l6-3FHCxmyGZ4WhAIw.png)
 <h1 align="center">Hi 👋, I'm Pavan Mehta</h1>
 <h3 align="center">A passionate Android Application Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
