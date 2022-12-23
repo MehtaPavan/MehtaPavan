@@ -62,13 +62,11 @@
 [![Pavan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mehtapavan&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/Mehtapavan/github-readme-activity-graph)
 
 ## Snake 🐍 Eating by contribution Graph 
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-Generates a snake game from a github user contributions graph
+[![GitHub release](https://img.MehtaPavan.io/github/release/MehtaPavaan/snk.svg?style=flat-square)](https://github.com/MehtaPavan/snk/releases/latest)
+[![GitHub marketplace](https://img.MehtaPavan.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.MehtaPavan.io/npm/types/typescript?style=flat-square)
+![code style](https://img.MehtaPavan.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
