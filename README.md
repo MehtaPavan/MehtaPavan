@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-# 💫 About Me:
+# 💫 About Me: </br>
 🌱  I’m currently learning flutter, swift & react native.<br>📫 How to reach me: brijeshvadaliya1@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at <br>📝 I regularly write articles on 
 
 ## 🌐 Socials:
