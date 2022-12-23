@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1200/1*27l0l6-3FHCxmyGZ4WhAIw.png)
+![MasterHead](https://infosecwriteups.com/how-to-bypass-encryption-mechanism-in-android-apps-720e9431bc67)
 
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <h3 align="center">A passionate Android Application Developer</h3>
