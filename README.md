@@ -62,9 +62,6 @@
 [![Pavan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mehtapavan&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/Mehtapavan/github-readme-activity-graph)
 
 ## Snake 🐍 Eating by contribution Graph 
-# snk
-
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
@@ -73,7 +70,7 @@ Generates a snake game from a github user contributions graph
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-Pull a github user's contribution graph.
+<!-- Pull a github user's contribution graph.
 Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
 
 Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
@@ -107,9 +104,9 @@ Available as github action. It can automatically generate a new image each day. 
 ```
 
 [example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29)
-
-If you are only interested in generating a svg, consider using this faster action: `uses: Platane/snk/svg-only@v2`
-
+ -->
+<!-- If you are only interested in generating a svg, consider using this faster action: `uses: Platane/snk/svg-only@v2`
+ -->
 **dark mode**
 
 For **dark mode** support on github, use this [special syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to=) in your readme.
@@ -118,25 +115,3 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ```
-
-**interactive demo**
-
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-[platane.github.io/snk](https://platane.github.io/snk)
-
-**local**
-
-```
-npm install
-
-npm run dev:demo
-```
-
-## Implementation
-
-[solver algorithm](./packages/solver/README.md)
-
-![Snake GIF](https://github.com/Mehtapavan/Mehtapavan/blob/output/github-contribution-grid-snake.svg)
