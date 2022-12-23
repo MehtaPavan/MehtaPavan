@@ -5,8 +5,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
 
-## 💫 About Me:
+
+# 💫 About Me:
 🌱  I’m currently learning flutter, swift & react native.<br>📫 How to reach me: brijeshvadaliya1@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at <br>📝 I regularly write articles on 
 
 ## 🌐 Socials:
@@ -45,7 +47,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MehtaPavan&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
