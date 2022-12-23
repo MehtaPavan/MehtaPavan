@@ -34,7 +34,8 @@
 - #### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4/badges/3026530)
 
  
-- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4)
+- ## <h3>All My Badges are Available at</h3> [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MehtaPavan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
