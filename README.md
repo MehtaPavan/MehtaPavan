@@ -17,6 +17,7 @@
 - 📫 How to reach me **mehtapavan55@gmail.com**
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I ❤️ 👨‍💻 
+                                                                                                                                         
 <!-- - 👨‍💻 All of my projects are available at [Portfolio](https://brijesh8128-portfolio.netlify.app/) -->
 
 # ☁️ Badges from Google Cloud [OFFICIAL]
@@ -35,7 +36,7 @@
 - #### [Getting Started with Terraform for Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52/badges/2981966)
  -->
  
-- ## All My Badges are Available at [Google Cloud Skill Boost]("https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4")
+- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
