@@ -32,9 +32,9 @@
 - #### [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4/badges/2976070)
 - #### [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4/badges/2981312)
 - #### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4/badges/3026530)
-- ## <h3>All My Badges are Available at</h3> [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4)</h3>
+- #### <h3>All My Badges are Available at</h3> [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/c8b8e333-136d-468d-9f5a-d3734bb7cfb4)</h3>
 
-
+<hr>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MehtaPavan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MehtaPavan&theme=highcontrast&hide_border=false)<br/>
