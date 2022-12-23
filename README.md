@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1200/1*27l0l6-3FHCxmyGZ4WhAIw.png)
 
-<h1 align="center">Hi 👋, I'm Pavan Mehta</h1>
+<h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <h3 align="center">A passionate Android Application Developer</h3>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
