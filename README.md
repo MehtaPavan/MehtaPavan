@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Pavan Mehta</h1>
 <h3 align="center">A passionate Android Application Developer</h3>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
 
 # 💫 About Me:
-🌱  I’m currently learning flutter, swift & react native.<br>📫 How to reach me: brijeshvadaliya1@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at <br>📝 I regularly write articles on 
+🌱  I’m currently learning flutter, swift & react native.<br>📫 How to reach me: mehtapavan55@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at <br>📝 I regularly write articles on 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/pavanmehta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavanmehta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-mehta-0a2a9522a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mehtapavan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/pavanmehta_/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Pavan-Mehta-16) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/pavanmehta_) 
