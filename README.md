@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <h3 align="center">A passionate Android Application Developer</h3>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🌱  I’m currently learning flutter, swift & react native.<br>📫 How to reach me: mehtapavan55@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at <br>📝 I regularly write articles on 
