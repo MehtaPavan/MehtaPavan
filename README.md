@@ -1,6 +1,4 @@
 ![MasterHead](https://miro.medium.com/max/1200/1*27l0l6-3FHCxmyGZ4WhAIw.png)
-<div style=" font-size: medium; color: #447ff7" align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Mehta Pavan +%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Android+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3; alt="Mehta Pavan" width="650" height="55">
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
