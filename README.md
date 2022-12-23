@@ -16,7 +16,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mehtapavan) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/pavanmehta_/) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Pavan-Mehta-16) 
-[![Codepen](https://img.shields.io/badge/Codepen-%231DA1F2.svg?logo=Codepen&logoColor=white)](https://Codepen.com/https://Codepen.com/pavanmehta_) 
+[![Codepen](https://img.shields.io/badge/Codepen-%231DA1F5.svg?logo=Codepen&logoColor=white)](https://Codepen.com/https://codepen.io/MehtaPavan) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/pavanmehta_) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/pavanmehta_) 
 
