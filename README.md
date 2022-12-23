@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1200/1*27l0l6-3FHCxmyGZ4WhAIw.png)
 <div style=" font-size: medium; color: #447ff7" align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Brijesh+Vadaliya+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Web+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+expertise+%F0%9F%93%88;In+building+full-Stack+infrastructures+%E2%9A%99%EF%B8%8F" alt="Brijesh Vadalia" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Mehta Pavan +%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Android+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3; alt="Mehta Pavan" width="650" height="55">
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
@@ -68,10 +68,3 @@
 
 ## Snake 🐍 Eating by contribution Graph 
 ![Snake GIF](https://github.com/Mehtapavan/Mehtapavan/blob/output/github-contribution-grid-snake.svg)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtapavan&show_icons=true&locale=en&layout=compact" alt="mehtapavan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehtapavan&show_icons=true&locale=en" alt="mehtapavan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehtapavan&" alt="mehtapavan" /></p>
