@@ -1,7 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1200/1*27l0l6-3FHCxmyGZ4WhAIw.png)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=truecenter=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Pavan+Mehta+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Android+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+a+Web+Devloper+F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+india+%F0%9F%87%AE%F0%9F%87%B3;" alt="Pavan Mehta" width="650" height="55">
-
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <h3 align="center">A passionate Android Application Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
