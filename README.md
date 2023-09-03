@@ -1,7 +1,7 @@
 ![MasterHead](https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/15-best-android-libraries-for-2020.jpg)
 
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
-<h3 align="center">A passionate Android Application Developer</h3>
+<h3 align="center">A passionate Android Application Developer & UI/UX Designer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
 
