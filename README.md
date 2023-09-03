@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1DXDZtrH2LqVsxFusVLtB-VGKpsRZQMd6/view?usp=sharing.jpg)
+![MasterHead](https://drive.google.com/file/d/1DXDZtrH2LqVsxFusVLtB-VGKpsRZQMd6/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <h3 align="center">A passionate Android Application Developer & UI/UX Designer</h3>
