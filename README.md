@@ -1,5 +1,3 @@
-![MasterHead](https://live.staticflickr.com/65535/53160645981_c73f546f15_z.jpg)
-
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
 
