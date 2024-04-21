@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Mehta  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehtapavan&label=Profile%20views&color=0e75b6&style=flat" alt="mehtapavan" /> </p>
 
-🌱  I’m currently learning flutter, swift & react native.<br>📫 How to reach me: mehtapavan55@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at [Portfolio](https://pavanmehta.netlify.app/) <br>📝 I regularly write articles on [Medium](https://medium.com/@mehtapavan)
+📫 How to reach me: mehtapavan55@gmail.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I ❤️ 👨‍💻<br>👨‍💻 All of my projects are available at [Portfolio](https://pavanmehta.netlify.app/) <br>📝 I regularly write articles on [Medium](https://medium.com/@mehtapavan)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/pavanmehta) 
